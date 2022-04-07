@@ -4,6 +4,6 @@ import (
 	"strings"
 )
 
-func Ucwords(str string) string {
+func UcWords(str string) string {
 	return strings.ToTitle(str)
 }
