@@ -1,3 +1,3 @@
-module github.com/hantulau/functions-module
+module github.com/hantulautt/functions-module
 
 go 1.18
