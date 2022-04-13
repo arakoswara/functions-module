@@ -1,3 +1,3 @@
-module github.com/arakoswara/functions-module
+module github.com/hantulau/functions-module
 
 go 1.18
